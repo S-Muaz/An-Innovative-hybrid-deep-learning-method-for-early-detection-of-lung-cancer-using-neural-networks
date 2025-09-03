@@ -66,5 +66,5 @@ To run this project, follow these steps:
 ### References
 
 * R.L. Siegel, et al., "Cancer statistics," *Cancer J. Clin.* (2022).
-* F. Ciompi, et al., "Towards automatic pulmonary nodule management in lung cancer screening with deep learning," *Sci. [cite_start]Rep.* (2017).
+* F. Ciompi, et al., "Towards automatic pulmonary nodule management in lung cancer screening with deep learning," *Sci.Rep.* (2017).
 * S. Bhatia, et al., "Lung cancer detection: a deep learning approach," in *Soft Comp. for Prob. Solving* (2019).
