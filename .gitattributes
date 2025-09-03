@@ -1,2 +1,7 @@
 *.npy filter=lfs diff=lfs merge=lfs -text
 *.hdf5 filter=lfs diff=lfs merge=lfs -text
+lidc-idri/** filter=lfs diff=lfs merge=lfs -text
+testImages/** filter=lfs diff=lfs merge=lfs -text
+trainingImages/** filter=lfs diff=lfs merge=lfs -text
+model/** filter=lfs diff=lfs merge=lfs -text
+SCREENS.docx filter=lfs diff=lfs merge=lfs -text
